@@ -1,14 +1,14 @@
 - type: gameMapPool
   id: DefaultMapPool
   maps:
-  - Amber
-  - Bagel
-  - Box
-  - Elkridge
-  - Fland
-  - Marathon
-  - Oasis
-  - Packed
-  - Plasma
-  - Reach
-  - Exo
+  - Amber # 15-60
+  - Bagel # 20-70
+  - Box # 40
+  - Elkridge # 15-45
+  # - Fland # GS Edit
+  - Marathon # 25-70
+  - Oasis # 60
+  - Packed # 7-35
+  # - Plasma # GS Edit
+  - Reach # 0-7
+  # - Exo # GS Edit
